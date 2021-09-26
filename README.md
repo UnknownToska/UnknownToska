@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UnknownToska
+- 👋 Hi, I’m @Maxim
 - 👀 I’m interested in ... Python & HTML
 - 🌱 I’m currently learning ... Python
 - 📫 How to reach me ... UnknownToska#8888
