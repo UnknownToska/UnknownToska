@@ -1,4 +1,10 @@
-- 👋 Hi, I’m @Maxim
-- 👀 I’m interested in ... Python & HTML
-- 🌱 I’m currently learning ... Python
-- 📫 How to reach me ... UnknownToska#8888
+ Wassup am Maxim!
+
+*** languages: Python, HTML, CSS
+*** Just learning for the fun of it
+
+Contact me:
+*** Discord: UnknownToska#8888
+
+ Website: 
+*** https://trinixbot.xyz
