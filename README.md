@@ -5,8 +5,4 @@ About me:
 * Doing it for the fun of it
 
 Contact me:
-* Discord: lul#8888
-
-Websites:
-* https://trinixbot.xyz
-* https://unknowntoska.tk
+* Discord: lulz#1468
