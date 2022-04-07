@@ -5,4 +5,4 @@ About me:
 * Doing it for the fun of it
 
 Contact me:
-* Discord: lulz#1468
+* Discord:UrMad#0001
