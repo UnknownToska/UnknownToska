@@ -1,4 +1,4 @@
-# Wassup! am Maxim
+# Wassup! am Maxie
 
 About me:
 * Languages: Python, HTML, CSS
